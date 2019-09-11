@@ -3,5 +3,6 @@
       create_table :shows do |t|
         t.string :name
         t.string :network
-        t.string :name 
+        t.string :day
+        t.string : 
         
