@@ -4,5 +4,5 @@
         t.string :name
         t.string :network
         t.string :day
-        t.string : 
+        t.integer :rating 
         
